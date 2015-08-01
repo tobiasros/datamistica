@@ -1,16 +1,77 @@
-Year,Country,City,Location,Type,Extra,Artwork
-2009,Mexico,+ACI-Mexico, D.F.+ACI-,Dorkbot +AEA-Central del Pueblo Venezuela,Artist Talk,,Div
+Year,Country,City,Location,Type,Extras,Artwork
+2009,Mexico,D.F.,Dorkbot +AEA-Central del Pueblo Venezuela,Artist Talk,,Div
 2009,Singapore,Singapore,Instinc,Artist Talk,,Div
 2009,Germany,Frankfurt,Beyond Vortragsreihe +AEA-Franken Architekten,Lecture,,Div
-2010,Germany,Osnabr+APw-ck,European Media Festival,Lecture,given by CCO Malte Scholz (TGD),The Grand Defender
+2010,Germany,Osnabr+APw-ck,European Media Art Festival,Lecture,given by CCO Malte Scholz (TGD),13
 2010,China,Shanghai,Dorkbot +AEA-Xindanwei,Artist Talk,,Div
 2011,India,Bangalore,Pecha Kucha ,Lecture,,Div
 2011,India,Bangalore,Jaaga,Artist Talk,,Div
-2011,China,Shanghai,Goethe Institut,Artist Talk,,Large Scale
+2011,China,Shanghai,Goethe Institut,Artist Talk,,15
 2011,China,Chongqing,DuC+AC0-N +AEA-Chongqing University,Lecture,,Div
-2012,Germany,Berlin,Brecht Tage,Lecture,,Dialogues on Stage
+2012,Germany,Berlin,Brecht Tage,Lecture,,20
 2012,China,Shanghai,Siva Salon 411,Lecture,,Div
-2012,Germany,Halle,Werkleitz Festival,Artist Talk,,The An+AC0-Archic Device
-2012,Ukraine,Kiev,Ya Gallery,Artist Talk,,The First Twenty Years
-2012,Ukraine,Dnipropetrovsk,Ya Gallery,Artist Talk,,The First Twenty Years
-2014,USA,Washington D.C.,Goethe Institut,Artist Talk,,The Secret Race
+2012,Germany,Halle,Werkleitz Festival,Artist Talk,,11
+2012,Ukraine,Kiev,Ya Gallery,Artist Talk,,21
+2012,Ukraine,Dnipropetrovsk,Ya Gallery,Artist Talk,,21
+2014,USA,Washington D.C.,Goethe Institut,Artist Talk,,22
+2014,China,Shanghai,Vanguard Gallery,Solo,with Mujin,25
+2014,Germany,Ringheim,Bunker am Nordring,Solo,permanently installed,24
+2012,Ukraine,Dnipropetrovsk,Ya Gallery,Solo,,21
+2012,Ukraine,Kiev,Ya Gallery,Solo,,21
+2012,Germany,Aschaffenburg,Kornh+AOQ-uschen,Solo,,Div
+2010,Germany,Esslingen,Villa Merkel,Solo,,Div
+2010,SwitzerlandBasel+AC0-Birsfelden,,Theater Roxy,Solo,,Div
+2009,Mexico,D.F.,Galer+AO0-a A/B del CENART,Solo,,11
+2007,Yemen,Sanaa,Bab al+AC0-Yemen,Solo,with Rene Liebert,7
+2007,USA,New York City,Harvestworks,Solo,with Elad Shniderman,6
+2007,Israel,Tel Aviv,Alfred Gallery,Solo,with Elad Shniderman,6
+2012,Germany,Halle,Werkleitz Festival,Group,,11
+2012,China,Shanghai,N+AC0-Minutes Video Art Festival,Group,,15
+2012,Germany,Aschaffenburg,Luminale,Group,,19
+2011,China,Beijing,AFA Beijing Contemporary Art Centre,Group,,15
+2011,India,Bangalore,Jaaga Sound +ACY- Lights,Group,,17
+2011,Spain,Barcelona,Vilafranca del Pened+AOg-s,Group,,16
+2010,China,Macau,VAFA 2010,Group,,15
+2010,Ukraine,Sevastopol,Balaklava Odyssey,Group,,16
+2010,Spain,Huesca,Festival Okuparte,Group,,15
+2010,Germany,Osnabr+APw-ck,European Media Art Festival (Kunsthalle Dominikanerkirche),Group,,11 13
+2010,Uk,Liverpool,Moves 10,Group,,6
+2010,Germany,Frankfurt,Luminale,Group,with Franken Architekten,14
+2010,Spain,Barcelona,Barcelona Art Contemporary XI Festival ,Group,,6
+2009,Poland,Katowice,Galeria Rondo Sztuki,Group,,12
+2009,Germany,D+APw-sseldorf,Kunstfilmtag,Group,,6
+2009,Denmark,Copenhagen,Re+AC0-new Digital Arts Festival,Group,,6
+2009,Germany,Sch+APY-ppingen,Jubil+AOQ-umsausstellung K+APw-nstlerdorf Sch+APY-ppingen,Group,,10
+2008,Germany,Offenbach,Festival Junger Talente,Group,,8
+2008,Spain,Barcelona,Goethe Institut,Group,,6
+2008,Germany,Frankfurt,Luminale,Group,,8
+2007,France,Lyon,Les Intranquilles Festival +ACM-6,Group,,6
+2006,Germany,Frankfurt,Luminale,Group,,5
+2014,USA,Washington D.C.,Goethe Institut,Screening,,22
+2012,Sweden,Stockholm,Project Green,Screening,,15
+2011,Germany,Detmold,ISFF,Screening,,15
+2011,China,Chongqing,International Video Art Festival +IB4-GREENER ON THE OTHER SIDE+IBw-,Screening,,15
+2010,Germany,D+APw-sseldorf,Kunstfilmtag,Screening,,16
+2010,Germany,Berlin,MMX Screening Programm VII,Screening,,15
+2010,France,Paris,The Nomad Project +AEA- Access +ACY- PARADOX ,Screening,,15
+2010,Bulgaria,Plovdiv,International Facade Video Festival,Screening,,15
+2010,Netherlands,Utrecht,Freemote,Screening,,15
+2011,Turkey,Istanbul,Amber Festival,Group,,15
+2010,USA,Atlanta,C +AC0- Mini Video Art Festival (Eyedrum),Screening,,15
+2010,Canada,Montreal,Fredom Sparks Film Festival,Screening,,15
+2009,BiH,Trebinje,namaTRE.ba 3,Group,,6
+2014,Germany,D+APw-sseldorf,FFT,Theater,with Theater der Kl+AOQ-nge,23
+2014,Germany,Dortmund,Theater im Depot,Theater,with Theater der Kl+AOQ-nge,23
+2014,Germany,Schwerte,Rohrmeisterei,Theater,with Theater der Kl+AOQ-nge,23
+2014,Germany,M+APw-hlheim,Shiny Toys Festival,Theater,with Polymer Dmt,Exp
+2015,Germany,Hamburg,Fleetstreet Theater,Theater,with FangYunLo and Patrik Zosso,26
+2009,Germany,Leipzig,Tanzoffensive,Theater,with 3xM+APw-ller,9
+2009,Germany,Hamburg,K+APY-rber Studio Junge Regie Thalia Gau+AN8-strasse,Theater,with 3xM+APw-ller,9
+2009,Germany,Frankfurt,Mousonturm,Theater,with 3xM+APw-ller,9
+2009,Germany,Essen,Symposium +IBw-Unter dem Blick der Sphinx+IB0- Pact Zollverein,Theater,,9
+2008,Germany,Frankfurt,Herbstfestival der Hessischen Theaterakademie,Theater,,9
+2008,Germany,Giessen,Internationales Heiner M+APw-ller Symposium,Theater,,9
+2006,Germany,Darmstadt,Ferienkurse f+APw-r Neue Musik Centralstation,Theater,,2
+2006,Germany,Frankfurt,Frankfurter Positionen im Schauspiel,Theater,,4
+2006,Germany,Offenbach,Festival Junger Talente,Theater,,3
+2003,Germany,Offenbach,Festival Junger Talente,Theater,,1
