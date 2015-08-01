@@ -1,27 +1,27 @@
-Title	ID	Url	Short Description	Year	Country	City	Residency	Commision	Collaboration	Team	Type	Interactive	Generative	Code	ATW
-Whiter Room	26		Interactive Installation (collaborative research how VR influences Body Movement)	2015	Germany	Hamburg	Fleetstreet Hamburg				Installation	Yes	Yes	Yes	No
-Great Rejuvenation	25		Exhibition Project by Sino-German Art Joint Venture Mujin  Tobias Rosenberger	2014	China	Shanghai		Vanguard Gallery			Installation	Yes	Yes	Yes	No
-PROPOSAL FOR AN ADDITIONAL WEAPON TO FIGHT AND ELEMINATE THE CREWS OF HOSTILE AIRPLANES AND GROUND TROOPS IN THE DEFENSIVE VIA X-RAY- AND ELECTRON RADIATION	24		Permanently transforming media sculpture in historical NS-research bunker	2014	Germany	Ringheim		Kulturinitiative Ringheim			Installation	No	Yes	Yes	No
-CODA	23		Interactive Stage Video for dance theatre performance	2013	Germany	Düsseldorf		Theater der Klänge			Video	Yes	Yes	Yes	No
-The Secret Race. A Play About the Nsa	22		Filmed Performance, 27min50 (FullHd, AppleProRes)	2013	Germany	Frankfurt					Video	No	No	No	No
-The First Twenty Years	21		9-Channel Live Videoinstallation, Childrens Room with objects	2012	Ukraine	Muzychi	Muzychi Expanded History Project  Goethe Institut Ukraine	Ya Gallery			Installation	Yes	Yes	Yes	No
-Dialogues on Stage	20														
-Lightinstallation Stiftskirche Aschaffenburg	19		Lightinstallation in historical church, Loop 1h	2012	Germany	Aschaffenburg		Stadt Aschaffenburg			Lightinstallation	No	Yes	Yes	No
-All Possibilities	18		26 Custom-Designed Lightobjects, Stage Lights, Fog Machine, Barcode Scanner	2011	China	Shanghai		Daning Life Hub			Lightinstallation	Yes	Yes	Yes	No
-Jaaga Sound & Lights	17		Collaborative Media Installation for the Jaaga building in Bangalore	2011	India	Bangalore	Jaaga  Goethe Institut Bangalore				Lightinstallation	Yes	Yes	Yes	No
-Sevastopol in August	16		9-Channel Videoinstallation (Pal SD), 5min (Loop)	2010	Ukraine	Sevastopol	Balaklava Odyssey Festival				Video	No	Yes	Yes	No
-Large Scale - La canción de la gran promesa 	15		15-Channel Videoinstallation (Pal SD), 4min31 (Loop)	2010	Spain	Huesca	Pépinières européennes pour jeunes artistes (map-extension 2009- 2010 programme)				Video	No	Yes	Yes	No
-Misere(re)	14			2010	Germany	Frankfurt	Luminale	Franken Architekten			Lightinstallation	No	No	Yes	No
-The Grand Defender 	13		Media Sculpture based on a scientific text by Mozi (5.Century B.C.)	2010	Germany	Esslingen	Esslinger Bahnwärter Visual Arts				Installation	No	No	No	No
-Real Estate	12		Responsive Object by Alex Berlinger, Wolfgang Fiel and Tobias Rosenberger	2009	Austria	Vienna	E-mobil Art (European Mobile Lab for Interactive Media Artists, 2008 – 2009)				Media Sculpture	Yes	Yes	Yes	No
-The An-Archic Device	11			2009	Mexico	Mexico, D.F.	Mexico Scholarship for German Media Artists @Centro Multimedia (Werkleitz  Goethe Institut)				Media Sculpture	Yes	No	Yes	No
-Projektion 1675	10			2009	Germany	Schöppingen	Künstlerdorf Schöppingen				Media Sculpture	No	No	Yes	No
-Herakles 2 / Die Hydra 	9		Texttheater 35 Minutes	2008	Germany	Giessen					Theater	No	No	No	Yes
-Cold Lights 	8		Installation by Maximilian Haas, René Liebert and Tobias Rosenberger	2008	Germany	Frankfurt					Installation	No	Yes	Yes	Yes
-Sana'a - City of Lights	7		Installation by René Liebert and Tobias Rosenberger (Sound: Matthias Mohr)	2007	Yemen	Sana'a		French + German Embassies in Yemen			Lightinstallation	No	Yes	Yes	No
-Breathing City	6		4-Channel Videoinstallation (Pal, 720x576), 7min40 (Loop)	2007	France	Lyon	Grammaire de la ville, Phase 2 (Goethe Institut)				Video	No	Yes	Yes	Yes
-Bypass	5		Installation(s) by Stefan Hölscher, Marc Jungreithmeier, Matthias Meppelink, Matthias Mohr, Tobias Rosenberger, Roland Siegwald, Lucie Tuma	2006	Germany	Frankfurt					Lightinstallation	No	No	No	Yes
-Fascia	4		Scenic Staging for Concert Piece by Jonathan Bepler, with David Gierten  Jens Heitjohann	2006	Germany	Frankfurt					Theater	No	No	No	Yes
-Der Mann mit dem Tornister	3		Theatre after texts by Ernst Jünger, Heiner Müller and Roth Rosenmohr	2006	Germany	Offenbach					Theater	No	No	No	Yes
-Esquisse	2		Scenic Staging for Soloprogramme Trombone Uwe Dierksen, with Matthias Mohr	2005	Germany	Darmstadt					Theater	No	No	No	Yes
-Antigone	1		Texttheater with Chinese performers	2003	Germany	Offenbach					Theater	No	No	No	Yes
+Title,ID,Url,Short Description,Year,Country,City,Residency,Commision,Collaboration,Team,Type,Interactive,Generative,Code,ATW
+Whiter Room,26,,Interactive Installation (collaborative research how VR influences Body Movement),2015,Germany,Hamburg,Fleetstreet Hamburg,,,,Installation,Yes,Yes,Yes,No
+Great Rejuvenation,25,,Exhibition Project by Sino-German Art Joint Venture Mujin  + Tobias Rosenberger,2014,China,Shanghai,,Vanguard Gallery,,,Installation,Yes,Yes,Yes,No
+PROPOSAL FOR AN ADDITIONAL WEAPON TO FIGHT AND ELEMINATE THE CREWS OF HOSTILE AIRPLANES AND GROUND TROOPS IN THE DEFENSIVE VIA X-RAY- AND ELECTRON RADIATION,24,,Permanently transforming media sculpture in historical NS-research bunker,2014,Germany,Ringheim,,Kulturinitiative Ringheim,,,Installation,No,Yes,Yes,No
+CODA,23,,Interactive Stage Video for dance theatre performance,2013,Germany,Düsseldorf,,Theater der Klänge,,,Video,Yes,Yes,Yes,No
+The Secret Race. A Play About the Nsa,22,,Filmed Performance | 27min50 | FullHd | AppleProRes,2013,Germany,Frankfurt,,,,,Video,No,No,No,No
+The First Twenty Years,21,,9-Channel Live Videoinstallation | Childrens Room with objects,2012,Ukraine,Muzychi,Muzychi Expanded History Project  Goethe Institut Ukraine,Ya Gallery,,,Installation,Yes,Yes,Yes,No
+Dialogues on Stage,20,,,,,,,,,,,,,,
+Lightinstallation Stiftskirche Aschaffenburg,19,,Lightinstallation in historical church | Loop 1h,2012,Germany,Aschaffenburg,,Stadt Aschaffenburg,,,Lightinstallation,No,Yes,Yes,No
+All Possibilities,18,,26 Custom-Designed Lightobjects | Stage Lights | Fog Machine | Barcode Scanner,2011,China,Shanghai,,Daning Life Hub,,,Lightinstallation,Yes,Yes,Yes,No
+Jaaga Sound & Lights,17,,Collaborative Media Installation for the Jaaga building in Bangalore,2011,India,Bangalore,Jaaga  Goethe Institut Bangalore,,,,Lightinstallation,Yes,Yes,Yes,No
+Sevastopol in August,16,,9-Channel Videoinstallation (Pal SD) | 5min (Loop),2010,Ukraine,Sevastopol,Balaklava Odyssey Festival,,,,Video,No,Yes,Yes,No
+Large Scale - La canción de la gran promesa ,15,,15-Channel Videoinstallation (Pal SD) | 4min31 (Loop),2010,Spain,Huesca,Pépinières européennes pour jeunes artistes (map-extension 2009- 2010 programme),,,,Video,No,Yes,Yes,No
+Misere(re),14,,,2010,Germany,Frankfurt,Luminale,Franken Architekten,,,Lightinstallation,No,No,Yes,No
+The Grand Defender ,13,,Media Sculpture based on a scientific text by Mozi (5.Century B.C.),2010,Germany,Esslingen,Esslinger Bahnwärter Visual Arts,,,,Installation,No,No,No,No
+Real Estate,12,,Responsive Object by Alex Berlinger | Wolfgang Fiel | Tobias Rosenberger,2009,Austria,Vienna,"E-mobil Art (European Mobile Lab for Interactive Media Artists, 2008 -? 2009)",,,,Media Sculpture,Yes,Yes,Yes,No
+The An-Archic Device,11,,,2009,Mexico,"Mexico, D.F.",Mexico Scholarship for German Media Artists @Centro Multimedia (Werkleitz | Goethe Institut),,,,Media Sculpture,Yes,No,Yes,No
+Projektion 1675,10,,,2009,Germany,Schöppingen,Künstlerdorf Schöppingen,,,,Media Sculpture,No,No,Yes,No
+Herakles 2 / Die Hydra ,9,,Texttheater 35 Minutes,2008,Germany,Giessen,,,,,Theater,No,No,No,Yes
+Cold Lights ,8,,Installation by Maximilian Haas | René Liebert | Tobias Rosenberger,2008,Germany,Frankfurt,,,,,Installation,No,Yes,Yes,Yes
+Sana'a - City of Lights,7,,Installation by René Liebert + Tobias Rosenberger (Sound: Matthias Mohr),2007,Yemen,Sana'a,,French +  German Embassies in Yemen,,,Lightinstallation,No,Yes,Yes,No
+Breathing City,6,,4-Channel Videoinstallation (Pal | 720x576) | 7min40 (Loop),2007,France,Lyon,Grammaire de la ville Phase 2 (Goethe Institut),,,,Video,No,Yes,Yes,Yes
+Bypass,5,,Installation(s) by Stefan Hölscher | Marc Jungreithmeier | Matthias Meppelink | Matthias Mohr | Tobias Rosenberger | Roland Siegwald | Lucie Tuma,2006,Germany,Frankfurt,,,,,Lightinstallation,No,No,No,Yes
+Fascia,4,,Scenic Staging for Concert Piece by Jonathan Bepler | with David Gierten and Jens Heitjohann,2006,Germany,Frankfurt,,,,,Theater,No,No,No,Yes
+Der Mann mit dem Tornister,3,,Theatre after texts by Ernst Jünger | Heiner Müller and Roth Rosenmohr,2006,Germany,Offenbach,,,,,Theater,No,No,No,Yes
+Esquisse,2,,Scenic Staging for Soloprogramme Trombone Uwe Dierksen | with Matthias Mohr,2005,Germany,Darmstadt,,,,,Theater,No,No,No,Yes
+Antigone,1,,Texttheater with Chinese performers,2003,Germany,Offenbach,,,,,Theater,No,No,No,Yes
