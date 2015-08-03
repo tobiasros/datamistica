@@ -77,9 +77,9 @@ To submit the assignment:
 
 5. Push your master branch to GitHub.
 
-6. Submit the URL to your GitHub repository for this assignment to info@tobiasrosenberger.de
+6. Submit the URLs to your GitHub repository and the shiny app for this assignment to info@tobiasrosenberger.de
 
-In addition to submitting the URL for your GitHub repository and the shiny app, you will need to submit the 40 character SHA-1 hash (as string of numbers from 0-9 and letters from a-f) that identifies the repository commit that contains the version of the files you want to submit. You can do this in GitHub by doing the following:
+In addition to submitting the URLs for your GitHub repository and the shiny app, you will need to submit the 40 character SHA-1 hash (as string of numbers from 0-9 and letters from a-f) that identifies the repository commit that contains the version of the files you want to submit. You can do this in GitHub by doing the following:
 
 1. Go into your GitHub repository web page for this assignment
 
