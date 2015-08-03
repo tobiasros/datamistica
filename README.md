@@ -47,7 +47,21 @@ For this part of the assignment, you can ignore the missing values in the datase
 
 1. Make a panel plot containing a time series plot of the year-interval (x-axis) and the average number of artworks created, averaged across the different types (y-axis).
 
-2. Is there a linear relation to the number of public events the artist participated in?
+2. Is there any relation to the number of public events the artist participated in?
+
+# What is the visually most attractive artwork that the artist created?
+
+1. Watch at least 10 videos of the artist on Vimeo. Browse through his Picasa Web Albums.
+
+2. Compare your findings with the exhibition history and his artwork record. What could be possible conclusions?
+
+# Will the future career sucess of the artist be remarkable?
+
+1. Find a mathematical model that supports the theory that Tobias will have a more than remarkable future career in the field of Virtual Reality.
+
+2. Which additional extra data could be used to flesh out this prediction?
+
+3. Design a simple shiny app that let collectors, curators, critics and the artist himself explore this additional data in an interactive way.
 
 # Submitting the Assignment
 
