@@ -51,13 +51,13 @@ For this part of the assignment, you can ignore the missing values in the datase
 
 # What is the visually most attractive artwork that the artist created?
 
-1. Watch at least 10 videos of the artist on Vimeo. Browse through his Picasa Web Albums.
+1. Watch at least 10 videos of the artist on [Vimeo](https://vimeo.com/tobiasrosenberger). Browse through his [Picasa Web Albums](http://picasaweb.google.com/tobiasrosenberger80).
 
 2. Compare your findings with the exhibition history and his artwork record. What could be possible conclusions?
 
 # Will the future career sucess of the artist be remarkable?
 
-1. Find a mathematical model that supports the theory that Tobias will have a more than remarkable future career in the field of Virtual Reality.
+1. Find a mathematical model that supports the theory that Tobias Rosenberger will have a more than remarkable future career in the field of Virtual Reality.
 
 2. Which additional extra data could be used to flesh out this prediction?
 
@@ -71,13 +71,15 @@ To submit the assignment:
 
 2. Commit your datamistica.md and datamistica.html files produced by processing your R markdown file with the knit2html() function in R (from the knitr package)
 
-3. If your document has figures included (it should) then they should have been placed in the figure/ directory by default (unless you overrode the default). Add and commit the figure/ directory to your git repository.
+3. Publish your shiny app on shinyapps.io and commit your completed app.R file to your git repository 
 
-4. Push your master branch to GitHub.
+4. If your document has figures included (it should) then they should have been placed in the figure/ directory by default (unless you overrode the default). Add and commit the figure/ directory to your git repository.
 
-5. Submit the URL to your GitHub repository for this assignment to info@tobiasrosenberger.de
+5. Push your master branch to GitHub.
 
-In addition to submitting the URL for your GitHub repository, you will need to submit the 40 character SHA-1 hash (as string of numbers from 0-9 and letters from a-f) that identifies the repository commit that contains the version of the files you want to submit. You can do this in GitHub by doing the following:
+6. Submit the URL to your GitHub repository for this assignment to info@tobiasrosenberger.de
+
+In addition to submitting the URL for your GitHub repository and the shiny app, you will need to submit the 40 character SHA-1 hash (as string of numbers from 0-9 and letters from a-f) that identifies the repository commit that contains the version of the files you want to submit. You can do this in GitHub by doing the following:
 
 1. Go into your GitHub repository web page for this assignment
 
