@@ -39,7 +39,7 @@ Show any code that is needed to
 
 For this part of the assignment, you can ignore the missing values in the dataset.
 
-1. Make a histogram of the total number of exhibitions/talks/performances participated in per year.
+1. Make a histogram of the total number of exhibitions/talks/performances the artist participated in per year.
 
 2. Calculate and report the mean and median total number of exhibitions (group + solo), talks (including lectures) and performances (theater + screenings) per year.
 
