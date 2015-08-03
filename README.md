@@ -43,15 +43,19 @@ For this part of the assignment, you can ignore the missing values in the datase
 
 2. Calculate and report the mean and median total number of exhibitions (group + solo), talks (including lectures) and performances (theater + screenings) per year.
 
-# How many artworks did the artist create per year?
+# Which artworks did the artist create in which country?
 
-1. Make a panel plot containing a time series plot of the year-interval (x-axis) and the average number of artworks created, averaged across the different types (y-axis).
+For this task it is recommended to load the maps and mapdata packages.
 
-2. Is there any relation to the number of public events the artist participated in?
+1. Make a plot containing a world-map with all the individual countries where works of the artist have been produced.
+
+2. Which type of works were produced in which countries?
+
+3. Is there any relation to the public events the artist participated in (you might want to use the same plotting function to answer this question)?
 
 # What is the visually most attractive artwork that the artist created?
 
-1. Watch at least 10 videos of the artist on [Vimeo](https://vimeo.com/tobiasrosenberger). Browse through his [Picasa Web Albums](http://picasaweb.google.com/tobiasrosenberger80).
+1. Watch at least 10-15 videos of the artist on [Vimeo](https://vimeo.com/tobiasrosenberger). Browse through his [Picasa Web Albums](http://picasaweb.google.com/tobiasrosenberger80) and read at least 1 review of his work.
 
 2. Compare your findings with the exhibition history and his artwork record. What could be possible conclusions?
 
