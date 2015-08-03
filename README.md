@@ -35,7 +35,7 @@ Show any code that is needed to
 
 2. Process/transform the data (if necessary) into a format suitable for your analysis
 
-# What is mean total number of event types the artist participated in per year?
+# What is mean total number of public events the artist participated in per year?
 
 For this part of the assignment, you can ignore the missing values in the dataset.
 
