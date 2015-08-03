@@ -51,7 +51,7 @@ For this task it is recommended to load the maps and mapdata packages.
 
 2. Which type of works were produced in which countries?
 
-3. Is there any relation to the public events the artist participated in (you might want to use the previous plotting function to answer this question)?
+3. Is there any relation to the public events the artist participated in (you might want to over-plot the previous map to answer this question)?
 
 # What is the visually most attractive artwork that the artist created?
 
