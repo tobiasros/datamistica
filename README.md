@@ -13,7 +13,7 @@ The data for this assignment can be downloaded from this Github-repository. Impo
 - **press**: An incomplete listing of uniform resource locators (URLs) that refer to texts and press that are related to the work of the artist 
 - **works**: An artist-curated listing of artworks created since 2003
 
-The datasets are stored in comma-separated-value (CSV) files and there are a total of 162 observations in these datasets.
+The datasets are stored in comma-separated-value (CSV) files and there are currently a total of 177 observations in these datasets.
 
 # Assignment
 
